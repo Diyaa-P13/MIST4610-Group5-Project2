@@ -17,7 +17,7 @@ Question 1: How did age-adjusted methadone overdose death rates per 100,000 popu
 
 This question was chosen because of the biological and social differences between males and females can significantly influence how the body processes opioids like methadone. It also shows how likely each group is to seek treatment. By isolating genders as a variable, we are able to determine whether intervention efforts should be tailored differently depending on gender.
 
-
+<img width="915" height="472" alt="Screenshot 2026-05-03 at 9 13 43 PM" src="https://github.com/user-attachments/assets/cc28db2b-1d61-481b-b73e-e0f7d01aedd5" />
 
 The timeline graph displays how the estimated deaths have both increased and decreased over the fifteen-year time period, with colors separating the variables. The Gantt bar chart represents the values of each estimate as their own independent bars, with the bottom of the bar lying on the value of the estimate, and the length of the bar also representing the value of the estimate. We are evaluating a notable disparity in the values by whether there is a gap between the male and female bars in one year.
 
