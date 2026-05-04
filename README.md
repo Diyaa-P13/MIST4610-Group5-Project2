@@ -22,6 +22,7 @@ This question was chosen because of the biological and social differences betwee
 
 <img width="915" height="472" alt="Screenshot 2026-05-03 at 9 13 43 PM" src="https://github.com/user-attachments/assets/cc28db2b-1d61-481b-b73e-e0f7d01aedd5" />
 
+
 The timeline graph displays how the estimated deaths have both increased and decreased over the fifteen-year time period, with colors separating the variables. The Gantt bar chart represents the values of each estimate as their own independent bars, with the bottom of the bar lying on the value of the estimate, and the length of the bar also representing the value of the estimate. We are evaluating a notable disparity in the values by whether there is a gap between the male and female bars in one year.
 
 As seen in both visualizations, males consistently recorded higher death rates throughout the entire fifteen-year period, with the most significant difference occurring around 2006-2007. The Gantt bar chart makes this gap especially clear, as the male bars exceed the female bars in nearly every observed year, leaving little ambiguity about which group bears more burden. Notably, both groups follow a similar rise and fall pattern, suggesting that the same external factors are influencing both genders, yet males remain far more severely impacted at every point in time.
