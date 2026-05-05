@@ -60,6 +60,8 @@ After both deleting and adding columns, we had reduced the size of the data by t
 
 ## Tableau Packaged Workbook
 
+The packaged workbook containing the visualizations shown above is attached to this repository under “MIST 4610 Group 5 Project 2.”
+
 
 ## Sources
 
